@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Videos (too large for GitHub)
+Videos/*.mp4
+Videos/*.avi
+Videos/*.mov
+
+# Model weights (auto-downloaded by ultralytics)
+*.pt
+
+# Logs
+detection_log.txt
+multi_stream_log.txt
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

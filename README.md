@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Real-time Hybrid Autonomous Driving System
 
 A real-time autonomous driving perception system built for the Digital Image Processing course (EC312) at NUST College of E&ME. The system fuses classical computer vision with deep learning to produce speed and steering decisions from live video — running entirely on a standard PC with no specialized hardware.
@@ -233,3 +234,6 @@ Course: EC312 Digital Image Processing | Supervisor: Dr. Asad
 - OpenCV Hough Line Transform — https://docs.opencv.org
 - Canny, J. (1986). A Computational Approach to Edge Detection. IEEE Trans. PAMI
 - Redmon et al. (2016). You Only Look Once. CVPR
+=======
+# Hybrid-Autonomous-Driving-System
+>>>>>>> d159c002396e622ddd2c662ca8d3a8a54f3b5392

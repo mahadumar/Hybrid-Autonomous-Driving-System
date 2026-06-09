@@ -21,11 +21,11 @@ The system was later extended to a **multi-stream mode** processing three simult
 
 ## Sample Output
 
-(asset/Result_1.png)
+(assets/Result_1.png)
 
-(asset/Result_2.png)
+(assets/Result_2.png)
 
-(asset/Result_3.png)
+(assets/Result_3.png)
 
 ---
 

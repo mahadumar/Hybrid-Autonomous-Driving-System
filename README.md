@@ -21,20 +21,11 @@ The system was later extended to a **multi-stream mode** processing three simult
 
 ## Sample Output
 
-### Lane Detection
-![Lane Detection](assets/lane_detection.png)
+(asset/Result_1.png)
 
-### Object Detection with Road Zone
-![Object Detection](assets/object_detection.png)
+(asset/Result_2.png)
 
-### Full HUD — Move Forward
-![HUD Move Forward](assets/hud_move_forward.png)
-
-### STOP Scenario — Person on Road
-![STOP Scenario](assets/hud_stop.png)
-
-### Multi-Stream 2x2 Grid
-![Multi Stream](assets/multistream_grid.png)
+(asset/Result_3.png)
 
 ---
 
@@ -213,20 +204,6 @@ Persons (priority: CRITICAL), cars/motorcycles/buses/trucks (HIGH), dogs/horses/
 
 ---
 
-## Team
-
-| Name | Reg. ID |
-|------|---------|
-| Aleena Zia | 458086 |
-| Aliza Haider | 482337 |
-| Mahad Umar Qaisrani | 482972 |
-| Kallem Ullah | 479688 |
-
-Department of Computer and Software Engineering, College of E&ME, NUST
-Course: EC312 Digital Image Processing | Supervisor: Dr. Asad
-
----
-
 ## References
 
 - Ultralytics YOLOv8 — https://docs.ultralytics.com
@@ -234,5 +211,4 @@ Course: EC312 Digital Image Processing | Supervisor: Dr. Asad
 - Canny, J. (1986). A Computational Approach to Edge Detection. IEEE Trans. PAMI
 - Redmon et al. (2016). You Only Look Once. CVPR
 =======
-# Hybrid-Autonomous-Driving-System
->>>>>>> d159c002396e622ddd2c662ca8d3a8a54f3b5392
+

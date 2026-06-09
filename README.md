@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Real-time Hybrid Autonomous Driving System
 
 A real-time autonomous driving perception system built for the Digital Image Processing course (EC312) at NUST College of E&ME. The system fuses classical computer vision with deep learning to produce speed and steering decisions from live video — running entirely on a standard PC with no specialized hardware.
